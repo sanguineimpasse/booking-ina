@@ -1,10 +1,10 @@
 import { Text, View, StyleSheet } from "react-native"
 
-export default Home = () => {
+export default Search = () => {
     return(
         <View style={styles.container}>
             <Text>
-                This is the dashboard screen :DD
+                This is the search screen :DD
             </Text>
         </View>
     )
